@@ -1,1 +1,4 @@
-sync-microservices-payment-worker
+Simple comunication, Feign, Ribbon
+Eureka, Hystrix, Zuul
+Centralized config
+Authentication, Authorization
