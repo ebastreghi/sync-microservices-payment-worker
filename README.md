@@ -1,4 +1,4 @@
-Simple comunication, Feign, Ribbon
-Eureka, Hystrix, Zuul
-Centralized config
-Authentication, Authorization
+Simple comunication, Feign, Ribbon, 
+Eureka, Hystrix, Zuul, 
+Centralized config, 
+Authentication, Authorization 
