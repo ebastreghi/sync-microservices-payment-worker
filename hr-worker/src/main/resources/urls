@@ -1,5 +1,5 @@
 http://localhost:8001/workers/1
 http://localhost:8001/workers/2
 
-
+how much money the worker 1 earn in 10 days
 http://localhost:8101/payments/1/days/10
