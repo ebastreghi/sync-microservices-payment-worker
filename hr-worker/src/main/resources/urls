@@ -11,3 +11,5 @@ http://localhost:8765/hr-worker/workers
 
 http://localhost:8765/hr-user/users/1
 http://localhost:8765/hr-user/users/search?email=nina@gmail.com
+
+http://localhost:8765/hr-oauth/users/search?email=nina@gmail.com
