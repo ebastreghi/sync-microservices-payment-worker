@@ -8,3 +8,6 @@ http://localhost:8101/payments/1/days/10
 --after adding gateway we use routes
 http://localhost:8765/hr-payroll/payments/1/days/10
 http://localhost:8765/hr-worker/workers
+
+http://localhost:8765/hr-user/users/1
+http://localhost:8765/hr-user/users/search?email=nina@gmail.com
