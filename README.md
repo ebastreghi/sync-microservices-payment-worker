@@ -1,4 +1,9 @@
-Simple comunication, Feign, Ribbon, 
-Eureka, Hystrix, Zuul, 
+Simple comunication, Feign, Ribbon (load balancing),
+
+Eureka, Hystrix, 
+
 Centralized config, 
-Authentication, Authorization 
+
+API Gateway (Zuul),
+
+Authentication, Authorization, OAuth, JWT
