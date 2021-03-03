@@ -3,3 +3,8 @@ http://localhost:8001/workers/2
 
 how much money the worker 1 earn in 10 days
 http://localhost:8101/payments/1/days/10
+
+
+--after adding gateway we use routes
+http://localhost:8765/hr-payroll/payments/1/days/10
+http://localhost:8765/hr-worker/workers
