@@ -4,6 +4,6 @@ Eureka, Hystrix,
 
 Centralized config, 
 
-API Gateway (Zuul),
+API Gateway (Zuul), Docker
 
 Authentication, Authorization, OAuth, JWT
